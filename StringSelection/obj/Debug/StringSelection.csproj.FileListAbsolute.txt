@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\StringSelection\StringSelection\bin\Debug\StringSelection.exe.config
+C:\Users\PC\source\repos\StringSelection\StringSelection\bin\Debug\StringSelection.exe
+C:\Users\PC\source\repos\StringSelection\StringSelection\bin\Debug\StringSelection.pdb
+C:\Users\PC\source\repos\StringSelection\StringSelection\obj\Debug\StringSelection.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\StringSelection\StringSelection\obj\Debug\StringSelection.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\StringSelection\StringSelection\obj\Debug\StringSelection.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StringSelection\StringSelection\obj\Debug\StringSelection.exe
+C:\Users\PC\source\repos\StringSelection\StringSelection\obj\Debug\StringSelection.pdb
